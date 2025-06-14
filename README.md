@@ -4,14 +4,14 @@
 <h3 align="center">💻 A young and energetic fullstack developer from India, well-versed in building scalable applications using Microservices architecture.</h3>
 
 
-- 💬 Ask me about **Java, Spring Boot**.I 
+- 💬 Ask me about **Java, Spring Boot**.
 
 - 📫 How to reach me **imak070504@gmail.com**
 
 - ⚡ **I Love to play volleyball and cricket and enjoy watching anime.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">[https://www.linkedin.com/in/manshi-kumari-348b151a9](https://www.linkedin.com/in/ayush-07-kumar/)
+<p align="left">https://www.linkedin.com/in/manshi-kumari-348b151a9](https://www.linkedin.com/in/ayush-07-kumar/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
