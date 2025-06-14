@@ -1,10 +1,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="250" height="200"/>
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A young and energetic fullstack developer from India</h3>
+<h3 align="center">💻 A young and energetic fullstack developer from India, well-versed in building scalable applications using Microservices architecture.</h3>
 
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Java, Spring Boot**.I 
 
 - 📫 How to reach me **imak070504@gmail.com**
 
