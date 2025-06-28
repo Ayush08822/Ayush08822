@@ -11,7 +11,7 @@
 - ⚡ **I Love to play volleyball and cricket and enjoy watching anime.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">https://www.linkedin.com/in/manshi-kumari-348b151a9](https://www.linkedin.com/in/ayush-07-kumar/
+<p align="left">https://www.linkedin.com/in/ayush-07-kumar/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
