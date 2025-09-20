@@ -1,6 +1,5 @@
-
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="250" height="200"/>
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/117be319-9c30-4bc3-a02c-728518e0b58a" />
 <h3 align="center">💻 A young and energetic fullstack developer from India, well-versed in building scalable applications using Microservice architecture.</h3>
 
 
@@ -64,4 +63,6 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush08822&show_icons=true&locale=en&layout=compact" alt="Ayush08822" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush08822&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=320&langs_count=6" alt="Ayush08822 Top Languages" />
+</p>
