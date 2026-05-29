@@ -64,7 +64,3 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush08822&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=320&langs_count=6" alt="Ayush08822 Top Languages" />
-</p>
